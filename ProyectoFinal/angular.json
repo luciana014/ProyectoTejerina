@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
+              "D:/ProyectoTejerina/ProyectoFinal/css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "D:/ProyectoTejerina/ProyectoFinal/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
