@@ -1,8 +1,8 @@
-div{
+ div{
     background-color: rgb(0, 64, 255);
 }
 
-app-social{
+.app-social{
     float: right;
     margin-top: 30px;
 }
